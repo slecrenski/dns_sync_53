@@ -4,9 +4,9 @@
 
 ## Dependencies
 
-pip install requests
-pip install route53
-pip install PyYAML
+* pip install requests
+* pip install route53
+* pip install PyYAML
 
 ## Create an API Token here to use.
 
