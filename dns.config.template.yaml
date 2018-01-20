@@ -1,0 +1,11 @@
+zones:
+  mydomain.com:
+    records:
+    - name: www.mydomain.com
+      type: A
+      value: {{IPV4}}
+      ttl: 60
+    - name: mydomain.com
+      type: A
+      value: {{IPV4}}
+      ttl: 60
